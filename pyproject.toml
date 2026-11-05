@@ -1,0 +1,7 @@
+[project]
+name = "traffic-model"
+version = "0.1.0"
+description = "Cars on a ring road: the Nagel-Schreckenberg traffic model, from the ODD to code"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
